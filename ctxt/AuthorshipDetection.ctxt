@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=AuthorshipDetection
+comment1.params=
+comment1.target=void\ run()
+comment10.params=sentences
+comment10.target=double\ computeSentenceComplexity(java.util.ArrayList)
+comment11.params=first\ second
+comment11.target=double\ computeScore(AuthorSignature,\ AuthorSignature)
+comment12.params=
+comment12.target=void\ loadAuthorSignatures()
+comment2.params=fileContents
+comment2.target=java.util.ArrayList\ getSentencesFromContents(java.lang.String)
+comment3.params=sentence
+comment3.target=java.util.ArrayList\ getWordsFromSentence(java.lang.String)
+comment4.params=sentences
+comment4.target=java.util.ArrayList\ getAllWordsFromSentences(java.util.ArrayList)
+comment5.params=word
+comment5.target=java.lang.String\ clean(java.lang.String)
+comment6.params=words
+comment6.target=double\ computeAverageWordLength(java.util.ArrayList)
+comment7.params=words
+comment7.target=double\ computeDifferentWordRatio(java.util.ArrayList)
+comment8.params=words
+comment8.target=double\ computeHapaxLegomannaRatio(java.util.ArrayList)
+comment9.params=sentences
+comment9.target=double\ computeAverageWordsPerSentence(java.util.ArrayList)
+numComments=13
